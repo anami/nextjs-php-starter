@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mikecao/flight": "^3.12",
+        "rybakit/msgpack": "^0.9.1"
+    }
+}
